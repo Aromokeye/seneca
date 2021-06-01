@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import 'tachyons'
+import './index.css'; //custom CSS written prefixed with underscore
+import 'tachyons' //utility css classes reduce css writes
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
