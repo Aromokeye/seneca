@@ -1,0 +1,16 @@
+
+._start {
+  background-image: linear-gradient(180deg, rgb(247, 201, 117), #FF6300);
+}
+
+._close {
+  background-image: linear-gradient(180deg, rgb(247, 201, 117), #ffb700f1);
+}
+
+._closer {
+  background-image: linear-gradient(180deg, rgb(243, 227, 85), #c3b005f3);
+}
+
+._correct {
+  background-image: linear-gradient(180deg, rgb(179, 243, 220), #19A974);
+}
